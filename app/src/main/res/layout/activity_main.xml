@@ -6,6 +6,12 @@
     android:orientation="vertical"
     tools:context="com.example.ccmorataya.replicant.MainActivity">
 
+    <TextView
+        android:id="@+id/show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cadena"/>
+
     <EditText
         android:id="@+id/username"
         android:layout_width="match_parent"
