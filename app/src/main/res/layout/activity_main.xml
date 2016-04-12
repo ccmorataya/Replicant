@@ -12,11 +12,23 @@
         android:layout_height="wrap_content"
         android:text="@string/cadena"/>
 
-    <EditText
-        android:id="@+id/username"
-        android:layout_width="match_parent"
+    <CheckBox
+        android:id="@+id/chk1"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="@string/user"/>
+        android:text="@string/m"/>
+
+    <CheckBox
+        android:id="@+id/chk2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/f"/>
+
+    <!--<EditText-->
+        <!--android:id="@+id/username"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:hint="@string/user"/>-->
     
     <Button
         android:id="@+id/send"

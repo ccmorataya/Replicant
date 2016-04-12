@@ -3,4 +3,6 @@
     <string name="cadena">Nuevo Texto</string>
     <string name="user">username</string>
     <string name="send">Enviar</string>
+    <string name="m">Male</string>
+    <string name="f">Female</string>
 </resources>
